@@ -33,5 +33,4 @@ describe('The Employee class', () => {
         });
     });
 
-
 });
